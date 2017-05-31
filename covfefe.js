@@ -1,5 +1,3 @@
-console.log('covfefe');
-
 traverse(document.body);
 
 function traverse(node) {

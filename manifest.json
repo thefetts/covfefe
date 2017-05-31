@@ -5,11 +5,6 @@
   "description": "adds more covfefe",
   "version": "1.0",
 
-  "browser_action": {
-    "default_icon": "covfefe.gif",
-    "default_popup": "covfefe.html"
-  },
-
   "content_scripts":
   [
     {
