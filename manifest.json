@@ -5,6 +5,10 @@
   "description": "adds more covfefe",
   "version": "1.0",
 
+  "icons": {
+    "128": "covfefe.png"
+  },
+
   "content_scripts":
   [
     {
